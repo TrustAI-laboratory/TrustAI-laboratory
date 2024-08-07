@@ -8,7 +8,8 @@ Anthena Matrix is on a mission to ensure the safety and integrity of AI systems 
 
 Our goal is to empower developers, researchers, and organizations to build secure and trustworthy AI systems.
 
-Website: **[http://www.trustai.pro/](http://www.trustai.pro/)**
+* Website: **[http://www.trustai.pro/](http://www.trustai.pro/)**
+* Blog: **[https://securaize.substack.com/](https://securaize.substack.com/)**
 
 ### Products
 
