@@ -2,7 +2,7 @@
 
 ## Securing the Future of AI
 
-Anthena Matrix is on a mission to ensure the safety and integrity of AI systems and unlock the full potential of generative AI while maintaining control and trust. We believe in bringing security to the forefront of AI development, safeguarding against potential vulnerabilities, and promoting responsible AI innovation.
+TrustAI is on a mission to ensure the safety and integrity of AI systems and unlock the full potential of generative AI while maintaining control and trust. We believe in bringing security to the forefront of AI development, safeguarding against potential vulnerabilities, and promoting responsible AI innovation.
 
 ### About Us
 
