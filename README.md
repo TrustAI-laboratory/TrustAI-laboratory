@@ -15,12 +15,12 @@ Our goal is to empower developers, researchers, and organizations to build secur
 
 Here are some of main projects we've released:
 
-- **TrustAI Red**: Find Jailbreak 0-day 10x Faster with adversarial prompt fuzzing.
+- **TrustAI Red** (coming soon..): A GUI tool which for finding Jailbreak 0-day 10x Faster with adversarial prompt fuzzing.
   - Automatically generate AI alignment corpus through black box prompt fuzzing.
   - 10x faster with human-in-loop automation instead of manual chat.
   - Exposure GenAI Risks, Aligned with Global AI Safety Frameworks
  
-- **TrustAI Protect**: One-click Alignment Proxy for AI App Integration.
+- **[TrustAI Protect](https://trustai-guard-docs.gitbook.io/docs/getting-started/introduction)**: A SDK API that basically a One-click Alignment Proxy for AI App Integration.
   - Detect and address direct and indirect prompt injections in real-time, preventing potential harm to GenAI applications.
   - Ensure your GenAI applications do not violate the policies by detecting harmful and insecure output.
   - Safeguard sensitive PII and avoid data losses, ensuring compliance with privacy regulations.
