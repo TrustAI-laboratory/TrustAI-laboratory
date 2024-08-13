@@ -15,6 +15,13 @@ Our goal is to empower developers, researchers, and organizations to build secur
 
 Here are some of main projects we've released:
 
+- **[Learn Prompt Hacking](https://github.com/TrustAI-laboratory/Learn-Prompt-Hacking)**: The most comprehensive prompt hacking course available.
+  - Prompt Engineering technology.
+  - GenAI development technology.
+  - Prompt Hacking technology.
+  - LLM security defence technology.
+  - LLM Hacking resources
+  - LLM security papers.
 - **TrustAI Red** (coming soon..): A GUI tool for finding LLM 0-Day 10x Faster with adversarial prompt fuzzing.
   - Automatically generate AI alignment corpus through black box prompt fuzzing.
   - 10x faster with human-in-loop automation instead of manual chat.
