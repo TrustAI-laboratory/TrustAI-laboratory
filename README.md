@@ -37,6 +37,8 @@ Here are some of main projects we've released:
   - Ensure your GenAI applications do not violate the policies by detecting harmful and insecure output.
   - Safeguard sensitive PII and avoid data losses, ensuring compliance with privacy regulations.
   - Prevent data poisoning attacks on your GenAI applications through real-time prompt filtering.
+- **[Stark Game]([https://trustai-guard-docs.gitbook.io/docs/getting-started/introduction](https://stark.trustai.pro/))**: Very neat game to get intuitions for prompt injection, user need find ways to get Stark to tell the password for the level, except Stark is instructed not to reveal the word.
+  - [Doc](https://stark.trustai.pro/): [Intro to Stark Game](https://securaize.substack.com/p/intro-to-stack-game).
 
 
 <!--
