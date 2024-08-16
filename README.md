@@ -1,18 +1,23 @@
 # TrustAI Pte. Ltd.
 
 ## Securing the Future of AI
-
 TrustAI is on a mission to ensure the safety and integrity of AI systems and unlock the full potential of generative AI while maintaining control and trust. We believe in bringing security to the forefront of AI development, safeguarding against potential vulnerabilities, and promoting responsible AI innovation.
 
-### About Us
-
+## About Us
 Our goal is to empower developers, researchers, and organizations to build secure and trustworthy AI systems.
 
 * Website: **[http://www.trustai.pro/](http://www.trustai.pro/)**
 * Blog: **[https://securaize.substack.com/](https://securaize.substack.com/)**
 
-### Products
 
+## Conference Presentation
+
+* [LLM JailbreakingVulnerability Miningand Defefense](https://securaize.substack.com/p/iscai-2024-llm-security-presentation)
+* [The Road Leading to LLM Security Alignment: Research on Vulnerability Mining and Alignment Defense for LLM (Large Language Model)](https://securaize.substack.com/p/secgeek-llm-security-presentation)
+
+
+
+## Products
 Here are some of main projects we've released:
 
 - **[Learn Prompt Hacking](https://github.com/TrustAI-laboratory/Learn-Prompt-Hacking)**: The most comprehensive prompt hacking course available.
