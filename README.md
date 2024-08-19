@@ -37,7 +37,8 @@ Here are some of main projects we've released:
   - Ensure your GenAI applications do not violate the policies by detecting harmful and insecure output.
   - Safeguard sensitive PII and avoid data losses, ensuring compliance with privacy regulations.
   - Prevent data poisoning attacks on your GenAI applications through real-time prompt filtering.
-- **[Stark Game](https://stark.trustai.pro/)**: Very neat game to get intuitions for prompt injection, user need find ways to get Stark to tell the password for the level, except Stark is instructed not to reveal the word.
+- **[LLM Security CTF](https://github.com/TrustAI-laboratory/LLM-Security-CTF)**: Learn LLM/AI Security through a series of vulnerable LLM CTF challenges. No sign ups, all fees, everything on the website.
+  - [Stark Game](https://stark.trustai.pro/): Very neat game to get intuitions for prompt injection, user need find ways to get Stark to tell the password for the level, except Stark is instructed not to reveal the word.
   - Doc: [Intro to Stark Game](https://securaize.substack.com/p/intro-to-stack-game).
 
 
