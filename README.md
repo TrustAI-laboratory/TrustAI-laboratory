@@ -19,6 +19,8 @@ Our goal is to empower developers, researchers, and organizations to build secur
 ## Competitions/Awards
 * [2024 Puyuan Large Model Challenge (Summer Season)， Safety and Trustworthiness Track - Third Prize](https://www.shlab.org.cn/event/detail/59)
 
+## CVE
+* [TBD]()
 
 ## Products
 Here are some of main projects we've released:
