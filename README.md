@@ -12,12 +12,11 @@ Our goal is to empower developers, researchers, and organizations to build secur
 
 
 ## Conference Presentation
-
 * [LLM JailbreakingVulnerability Miningand Defefense](https://securaize.substack.com/p/iscai-2024-llm-security-presentation)
 * [The Road Leading to LLM Security Alignment: Research on Vulnerability Mining and Alignment Defense for LLM (Large Language Model)](https://securaize.substack.com/p/secgeek-llm-security-presentation)
+* [Next-Generation Detectionand Respbonse TeTechnologyDriven by LLM IntelligentAgent](https://securaize.substack.com/p/xcon2024-conference-presentation)
 
 ## Competitions/Awards
-
 * [2024 Puyuan Large Model Challenge (Summer Season)， Safety and Trustworthiness Track - Third Prize](https://www.shlab.org.cn/event/detail/59)
 
 
