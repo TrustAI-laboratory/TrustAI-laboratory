@@ -20,10 +20,7 @@ Our goal is to empower developers, researchers, and organizations to build secur
 * [2024 Puyuan Large Model Challenge (Summer Season)， Safety and Trustworthiness Track - Third Prize](https://www.shlab.org.cn/event/detail/59)
 
 ## 0Day Hunter
-* [CVE-2023-6656](https://vuldb.com/?id.247364)
-* [CVE-2024-0654](https://vuldb.com/?id.251382)
-* [CVE-2024-0936](https://vuldb.com/?id.252181)
-* [CVE-2024-0937](https://vuldb.com/?id.252182)
+* 22+ CVE
 
 ## Products
 Here are some of main projects we've released:
