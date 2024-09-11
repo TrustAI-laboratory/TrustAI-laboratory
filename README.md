@@ -36,7 +36,7 @@ Here are some of main projects we've released:
   - LLM security defence technology.
   - LLM Hacking resources
   - LLM security papers.
-- **LLM Red** (coming soon..): A GUI tool for finding LLM 0-Day 10x Faster with adversarial prompt fuzzing.
+- **[LLM Red](https://github.com/TrustAI-laboratory/LMAP)**: A GUI tool for finding LLM 0-Day 10x Faster with adversarial prompt fuzzing.
   - Automatically generate AI alignment corpus through black box prompt fuzzing.
   - 10x faster with human-in-loop automation instead of manual chat.
   - Exposure GenAI Risks, Aligned with Global AI Safety Frameworks
