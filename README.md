@@ -12,7 +12,7 @@ Our goal is to empower developers, researchers, and organizations to build secur
 
 
 ## Conference Presentation
-* [LLM JailbreakingVulnerability Miningand Defefense](https://securaize.substack.com/p/iscai-2024-llm-security-presentation)
+* [LLM Jailbreaking Vulnerability Mining and Defefense](https://securaize.substack.com/p/iscai-2024-llm-security-presentation)
 * [The Road Leading to LLM Security Alignment: Research on Vulnerability Mining and Alignment Defense for LLM](https://securaize.substack.com/p/secgeek-llm-security-presentation)
 * [Next-Generation Detectionand Respbonse Technology Driven by LLM Intelligent Agent](https://securaize.substack.com/p/xcon2024-conference-presentation)
 
