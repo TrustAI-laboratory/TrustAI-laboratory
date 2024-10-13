@@ -16,7 +16,7 @@ Our goal is to empower developers, researchers, and organizations to build secur
 * [SecGeek -- The Road Leading to LLM Security Alignment: Research on Vulnerability Mining and Alignment Defense for LLM](https://securaize.substack.com/p/secgeek-llm-security-presentation)
 * [Xcon 2024 -- Next-Generation Detectionand Respbonse Technology Driven by LLM Intelligent Agent](https://securaize.substack.com/p/xcon2024-conference-presentation)
 * [S-tron China 2024 - S-Talent Talk](https://securaize.substack.com/p/s-tron-china-s-talent-talk)
-* [AI x Security Summit](https://securaize.substack.com/p/what-an-incredible-evening-at-the)
+* [AI x Security Summit - SG Antler](https://securaize.substack.com/p/what-an-incredible-evening-at-the)
 
 
 ## Competitions/Awards
