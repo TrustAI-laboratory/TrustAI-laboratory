@@ -1,16 +1,21 @@
 # TrustAI Pte. Ltd.
 
-## Securing the Future of AI
+## Company Introduction
+TrustAI is a provider of artificial intelligence security solutions, offering security measures for AI algorithms, models, and the data behind them. TrustAI uses its pioneering intelligent fuzz testing method to perform security regression testing for large models and AI agents built on these models. It helps enterprises and organizations protect privatized models, AI agents, and internal/external AI applications, safeguarding the world’s most valuable technologies.
+
+In response to the new demands and challenges brought by the era of artificial intelligence, TrustAI focuses on enhancing the robustness, reliability, privacy, and interpretability of AI itself, providing full-lifecycle risk governance services for AI. During the research and development phase, it offers professional assessments, detection, defense, and enhancement capabilities for AI model-related factors (multi-modal datasets and models). During the application phase, it provides one-stop risk monitoring services for large models. It provides integrated management capabilities for AI data, algorithms, scenarios, and models.
+
+TrustAI was founded by AI professionals and security experts, with partners who are senior technical experts from Alibaba, Baidu, and former co-founders of Starcross. These individuals have firsthand experience with the challenges of detecting and defending against adversarial AI attacks. To prove that such attacks can be prevented, the team has developed a unique, patent-pending productized AI security solution that helps organizations monitor risks and protect critical assets.
+
+## Our Mission
 TrustAI is on a mission to ensure the safety and integrity of AI systems and unlock the full potential of generative AI while maintaining control and trust. We believe in bringing security to the forefront of AI development, safeguarding against potential vulnerabilities, and promoting responsible AI innovation.
 
 ## About Us
-Our goal is to empower developers, researchers, and organizations to build secure and trustworthy AI systems.
-
-* Website: **[http://www.trustai.pro/](http://www.trustai.pro/)**
-* Blog: **[https://securaize.substack.com/](https://securaize.substack.com/)**
-* Lab: **[https://lab.trustai.pro/](https://lab.trustai.pro/)**
+* Website: **[http://www.trustai.sg](http://www.trustai.sg)**
+* Blog: **[https://securaize.substack.com](https://securaize.substack.com)**
+* Lab: **[https://lab.trustai.sg](https://lab.trustai.sg)**
+* X: **[https://x.com/TrustAI_Ltd](https://x.com/TrustAI_Ltd)**   
 * Linkin: **[https://www.linkedin.com/company/trustai-sg](https://www.linkedin.com/company/trustai-sg/?viewAsMember=true)**
-
 
 ## Conference Presentation
 * [ISC.AI 2024 -- LLM Jailbreaking Vulnerability Mining and Defefense](https://securaize.substack.com/p/iscai-2024-llm-security-presentation)
@@ -19,7 +24,6 @@ Our goal is to empower developers, researchers, and organizations to build secur
 * [S-tron China 2024 - S-Talent Talk](https://securaize.substack.com/p/s-tron-china-s-talent-talk)
 * [AI x Security Summit - SG Antler](https://securaize.substack.com/p/what-an-incredible-evening-at-the)
 * [AI Nexus Summit – GenAI for SEA - SG Antler](https://securaize.substack.com/p/what-an-incredible-evening-at-the-c4e)
-
 
 ## Competitions/Awards
 * [2024 Puyuan Large Model Challenge (Summer Season)， Safety and Trustworthiness Track - Third Prize](https://www.shlab.org.cn/event/detail/59)
@@ -31,9 +35,7 @@ Our goal is to empower developers, researchers, and organizations to build secur
 * [CVE-2024-0937](https://vuldb.com/?id.252182)
 * 22+ CVE
 
-## Products
-Here are some of main projects we've released:
-
+## Feature Products
 - **[Learn Prompt Hacking](https://github.com/TrustAI-laboratory/Learn-Prompt-Hacking)**: The most comprehensive prompt hacking course available.
   - Prompt Engineering technology.
   - GenAI development technology.
@@ -42,16 +44,15 @@ Here are some of main projects we've released:
   - LLM Hacking resources
   - LLM security papers.
     
-- **[TrustEval - LLM Security&Safety Evaluation](https://eval.trustai.sg/)**: TRUST AI Security Labs - Evaluation. Quantifying. Securing AI.
+- **[TrustRed - LLM Security&Safety Evaluation Platform](https://red.trustai.sg/)**: Test & secure your LLM apps and agents
   - Discover: Reveal your AI Risk across your organisation, with the most comprehensive Evaluation Metrics.
   - Red Teaming: Test your AI Model security against Adversarial Scenarios.
   - CI/CD Model Testing: Run established security tests against benchmarks in your MLOps pipeline.
  
-- **[LLM Protection](https://trustai-guard-docs.gitbook.io/docs/getting-started/introduction)**: A SDK API that basically a One-click Alignment Proxy for AI App Integration.
-  - Detect and address direct and indirect prompt injections in real-time, preventing potential harm to GenAI applications.
-  - Ensure your GenAI applications do not violate the policies by detecting harmful and insecure output.
-  - Safeguard sensitive PII and avoid data losses, ensuring compliance with privacy regulations.
-  - Prevent data poisoning attacks on your GenAI applications through real-time prompt filtering.
+- **[TrustAgentic - Agent Guardian Development Platform](https://agenticguard.vercel.app/)**: AgenticGuard is a security layer that scans input prompts and model responses in real-time preventing attacks and stopping data leakage, unlocking the full potential of LLMs in a secure way.
+  - Lightning fast: You can add security with near zero response latency
+  - Seamless integration: With just two lines of code you're protected
+  - Prevent and stop attacks: Firewall built in front of your application to prevent prompts attacks in real time
 
 - **[AI HackingClub](https://hackingclub.trustai.sg/)**: Powered by TrustAI, Al HackingClub is dedicated to fostering awareness,education,and engagement on Al safety to develop safer Al systems.
   - Hack into Al
@@ -59,7 +60,7 @@ Here are some of main projects we've released:
   - RealworId Jailbreaking Al Safety
     
 - **[LLM Security CTF](https://github.com/TrustAI-laboratory/LLM-Security-CTF)**: Learn LLM/AI Security through a series of vulnerable LLM CTF challenges. No sign ups, all fees, everything on the website.
-  - [Stark Game](https://stark.trustai.pro/): Very neat game to get intuitions for prompt injection, user need find ways to get Stark to tell the password for the level, except Stark is instructed not to reveal the word.
+  - [Stark Game](https://stark.trustai.sg/): Very neat game to get intuitions for prompt injection, user need find ways to get Stark to tell the password for the level, except Stark is instructed not to reveal the word.
   - Doc: [Intro to Stark Game](https://securaize.substack.com/p/intro-to-stack-game).
 
 
