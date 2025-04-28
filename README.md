@@ -24,6 +24,7 @@ TrustAI is on a mission to ensure the safety and integrity of AI systems and unl
 * [S-tron China 2024 - S-Talent Talk](https://securaize.substack.com/p/s-tron-china-s-talent-talk)
 * [AI x Security Summit - SG Antler](https://securaize.substack.com/p/what-an-incredible-evening-at-the)
 * [AI Nexus Summit – GenAI for SEA - SG Antler](https://securaize.substack.com/p/what-an-incredible-evening-at-the-c4e)
+* [Securing the AI - Evaluate and Protecte Agentic Al](https://lu.ma/6wxcb1gx)
 
 ## Competitions/Awards
 * [2024 Puyuan Large Model Challenge (Summer Season)， Safety and Trustworthiness Track - Third Prize](https://www.shlab.org.cn/event/detail/59)
