@@ -37,8 +37,8 @@ TrustAI is on a mission to ensure the safety and integrity of AI systems and unl
 * 22+ CVE
 
 ## Papers
-* [Beyond Jailbreak: Unveiling Risks in LLM Applications Arising from Blurred Capability Boundaries]()
-* [Self-Aware Safety Augmentation: Leveraging Internal Semantic Understanding to Enhance Safety in Vision-Language Models](https://arxiv.org/abs/2507.21637)
+* [Beyond Jailbreak: Unveiling Risks in LLM Applications Arising from Blurred Capability Boundaries - Accepted by by NDSS26]()
+* [Self-Aware Safety Augmentation: Leveraging Internal Semantic Understanding to Enhance Safety in Vision-Language Models - Accepted by ACM Multimedia 2025](https://arxiv.org/abs/2507.21637)
 
 
 
