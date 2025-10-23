@@ -36,6 +36,12 @@ TrustAI is on a mission to ensure the safety and integrity of AI systems and unl
 * [CVE-2024-0937](https://vuldb.com/?id.252182)
 * 22+ CVE
 
+## Papers
+* [Beyond Jailbreak: Unveiling Risks in LLM Applications Arising from Blurred Capability Boundaries]()
+* [Self-Aware Safety Augmentation: Leveraging Internal Semantic Understanding to Enhance Safety in Vision-Language Models](https://arxiv.org/abs/2507.21637)
+
+
+
 ## Feature Products
 - **[Learn Prompt Hacking](https://github.com/TrustAI-laboratory/Learn-Prompt-Hacking)**: The most comprehensive prompt hacking course available.
   - Prompt Engineering technology.
